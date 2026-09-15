@@ -1,0 +1,340 @@
+
+==============================
+1 2
+start 8 0
+increase 9 2
+### Execution time: 0.016 seconds.
+
+==============================
+1 2
+start 8 0
+increase 9 2
+### Execution time: 0.010 seconds.
+
+==============================
+1 2
+start 8 0
+increase 9 2
+### Execution time: 0.018 seconds.
+
+==============================
+1 2
+start 8 0
+increase 9 2
+### Execution time: 0.009 seconds.
+
+==============================
+2 17
+start 8 0
+square 64 15
+decrease 63 2
+### Execution time: 0.104 seconds.
+
+==============================
+2 17
+start 8 0
+square 64 15
+decrease 63 2
+### Execution time: 0.010 seconds.
+
+==============================
+2 17
+start 8 0
+square 64 15
+decrease 63 2
+### Execution time: 0.016 seconds.
+
+==============================
+10 500
+start 1 0
+increase 2 2
+double 4 2
+double 8 3
+square 64 15
+decrease 63 2
+double 126 33
+decrease 125 2
+double 250 64
+double 500 126
+double 1000 251
+### Execution time: 12.284 seconds.
+
+==============================
+30 503
+start 1 0
+double 2 2
+square 4 2
+square 16 4
+square 256 61
+double 512 129
+double 1024 257
+decrease 1023 2
+decrease 1022 2
+decrease 1021 2
+decrease 1020 2
+decrease 1019 2
+decrease 1018 2
+decrease 1017 2
+decrease 1016 2
+decrease 1015 2
+decrease 1014 2
+decrease 1013 2
+decrease 1012 2
+decrease 1011 2
+decrease 1010 2
+decrease 1009 2
+decrease 1008 2
+decrease 1007 2
+decrease 1006 2
+decrease 1005 2
+decrease 1004 2
+decrease 1003 2
+decrease 1002 2
+decrease 1001 2
+decrease 1000 2
+### Execution time: 0.236 seconds.
+
+==============================
+30 503
+start 1 0
+increase 2 2
+double 4 2
+square 16 4
+square 256 61
+double 512 129
+double 1024 257
+decrease 1023 2
+decrease 1022 2
+decrease 1021 2
+decrease 1020 2
+decrease 1019 2
+decrease 1018 2
+decrease 1017 2
+decrease 1016 2
+decrease 1015 2
+decrease 1014 2
+decrease 1013 2
+decrease 1012 2
+decrease 1011 2
+decrease 1010 2
+decrease 1009 2
+decrease 1008 2
+decrease 1007 2
+decrease 1006 2
+decrease 1005 2
+decrease 1004 2
+decrease 1003 2
+decrease 1002 2
+decrease 1001 2
+decrease 1000 2
+### Execution time: 0.083 seconds.
+
+==============================
+12 20592
+start 41304 0
+half 20652 10327
+half 10326 5164
+half 5163 2583
+half 2581 1292
+half 1290 647
+half 645 324
+increase 646 2
+half 323 163
+increase 324 2
+root 18 78
+half 9 6
+half 4 4
+### Execution time: 5.870 seconds.
+
+==============================
+14 20668
+start 41304 0
+half 20652 10327
+half 10326 5164
+half 5163 2583
+half 2581 1292
+half 1290 647
+half 645 324
+half 322 163
+half 161 82
+half 80 42
+half 40 21
+half 20 11
+half 10 6
+half 5 4
+decrease 4 2
+### Execution time: 0.088 seconds.
+
+==============================
+14 20668
+start 41304 0
+half 20652 10327
+half 10326 5164
+half 5163 2583
+half 2581 1292
+half 1290 647
+half 645 324
+half 322 163
+half 161 82
+half 80 42
+half 40 21
+half 20 11
+half 10 6
+half 5 4
+decrease 4 2
+### Execution time: 0.032 seconds.
+
+==============================
+6 493
+start 1000 0
+half 500 251
+half 250 126
+half 125 64
+half 62 33
+half 31 17
+increase 32 2
+### Execution time: 1.295 seconds.
+
+==============================
+6 493
+start 1000 0
+half 500 251
+half 250 126
+half 125 64
+half 62 33
+half 31 17
+increase 32 2
+### Execution time: 0.050 seconds.
+
+==============================
+6 493
+start 1000 0
+half 500 251
+half 250 126
+half 125 64
+half 62 33
+half 31 17
+increase 32 2
+### Execution time: 0.015 seconds.
+
+==============================
+6 1499998
+start 1999990 0
+half 999995 499999
+half 499997 250000
+decrease 499996 2
+decrease 499995 2
+double 999990 249999
+double 1999980 499996
+### Execution time: 0.064 seconds.
+
+==============================
+10 20
+start 1999990 0
+decrease 1999989 2
+decrease 1999988 2
+decrease 1999987 2
+decrease 1999986 2
+decrease 1999985 2
+decrease 1999984 2
+decrease 1999983 2
+decrease 1999982 2
+decrease 1999981 2
+decrease 1999980 2
+### Execution time: 0.020 seconds.
+
+==============================
+10 20
+start 1999990 0
+decrease 1999989 2
+decrease 1999988 2
+decrease 1999987 2
+decrease 1999986 2
+decrease 1999985 2
+decrease 1999984 2
+decrease 1999983 2
+decrease 1999982 2
+decrease 1999981 2
+decrease 1999980 2
+### Execution time: 0.013 seconds.
+
+==============================
+29 1762048
+start 1245091 0
+half 622545 311274
+half 311272 155638
+decrease 311271 2
+half 155635 77819
+half 77817 38910
+decrease 77816 2
+decrease 77815 2
+double 155630 38909
+double 311260 77816
+double 622520 155631
+increase 622521 2
+root 789 155434
+half 394 199
+decrease 393 2
+half 196 100
+root 14 47
+increase 15 2
+double 30 9
+increase 31 2
+double 62 17
+double 124 32
+increase 125 2
+double 250 64
+double 500 126
+double 1000 251
+square 1000000 249751
+decrease 999999 2
+double 1999998 500001
+increase 1999999 2
+### Execution time: 382.476 seconds.
+
+==============================
+14 750256
+start 1 0
+increase 2 2
+double 4 2
+double 8 3
+square 64 15
+decrease 63 2
+double 126 33
+decrease 125 2
+double 250 64
+double 500 126
+double 1000 251
+square 1000000 249751
+decrease 999999 2
+double 1999998 500001
+increase 1999999 2
+### Execution time: 51.481 seconds.
+
+==============================
+2 4
+start 61 0
+increase 62 2
+increase 63 2
+### Execution time: 0.008 seconds.
+
+==============================
+2 4
+start 61 0
+increase 62 2
+increase 63 2
+### Execution time: 0.004 seconds.
+
+==============================
+2 4
+start 61 0
+increase 62 2
+increase 63 2
+### Execution time: 0.004 seconds.
+
+==============================
+2 4
+start 61 0
+increase 62 2
+increase 63 2
+### Execution time: 0.003 seconds.

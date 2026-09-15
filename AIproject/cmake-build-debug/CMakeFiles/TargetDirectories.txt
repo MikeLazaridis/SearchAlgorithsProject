@@ -1,0 +1,3 @@
+C:/Users/mlazg/CLionProjects/AIproject/cmake-build-debug/CMakeFiles/AIproject.dir
+C:/Users/mlazg/CLionProjects/AIproject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mlazg/CLionProjects/AIproject/cmake-build-debug/CMakeFiles/rebuild_cache.dir

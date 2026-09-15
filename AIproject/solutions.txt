@@ -1,0 +1,6 @@
+3 11
+start 8 0
+half 4 3
+increase 5 2
+square 25 6
+### Execution time: 0.046 seconds.
